@@ -1,7 +1,8 @@
 # instacart_order_classification
 Predict which products Instacart users will reorder using classification algorithms including logistic regression, random forest and gradient boosting
 
-This repo contains:
+This repo includes: 
+
 - **instacart_subsample.ipynb**: 
 - **instacart_modeling.ipynb**: 
 - **chat_words_str.txt**: 
