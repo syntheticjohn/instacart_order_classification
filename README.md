@@ -6,4 +6,5 @@ This repo contains:
 - **apple_tweets_modeling.ipynb**: 
 - **chat_words_str.txt**: 
 - **helper_functions.py**: 
-- **apple_tweets_nlp_slides.pdf**: 
+- **data**: pickled files 
+- **apple_tweets_nlp_slides.pdf**: pdf of project presentation slides
