@@ -1,5 +1,5 @@
 # instacart_order_classification
-Classification project to predict whether an item will be ordered by an Instacart customer
+Predict which products Instacart users will reorder using classification algorithms including logistic regression, random forest and gradient boosting
 
 This repo contains:
 - **instacart_subsample.ipynb**: 
