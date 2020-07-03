@@ -1,4 +1,4 @@
-# instacart_order_classification
+# Predicting Product Re-Orders On Instacart
 Predict which products Instacart users will reorder using classification algorithms (logistic regression, random forest and gradient boosting)
 
 This repo includes: 
