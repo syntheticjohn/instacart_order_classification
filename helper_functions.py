@@ -48,22 +48,4 @@ def scale_transform(features, X_train, X_val, X_test):#X_train_cols, X_val_cols,
     X_val[features] = scaler.transform(X_val[features]) 
     X_test[features] = scaler.transform(X_test[features])
     
-    # if X_train_cols.shape[1] > 1:
-    #     scaler.fit(X_train_cols)
-    #     X_train_cols = scaler.transform(X_train_cols)
-    #     X_val_cols = scaler.transform(X_val_cols)
-    #     X_test_cols = scaler.transform(X_test_cols)
-    
-    # else:
-    #     scaler.fit(X_train_cols)
-    #     X_train_cols = scaler.transform(X_train_cols)
-    #     X_val_cols = scaler.transform(X_val_cols)
-    #     X_test_cols = scaler.transform(X_test_cols)    
-    
-    # else:
-    #     scaler.fit(X_train_cols.reshape(-1,1))
-    #     X_train_cols = scaler.transform(X_train_cols.reshape(-1,1))
-    #     X_val_cols = scaler.transform(X_val_cols.reshape(-1,1))
-    #     X_test_cols = scaler.transform(X_test_cols.reshape(-1,1))
-    
     return X_train, X_val, X_test
