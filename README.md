@@ -1,4 +1,7 @@
 # Predicting Product Re-Orders On Instacart
+
+Predict which products Instacart users will reorder using classification algorithms (logistic regression, random forest and gradient boosting)
+
 **Project overview:**
 - Predicted which products each Instacart user will buy in the next order given a history of orders using classification algorithms and engineering time-based features to optimize F1 score 
 - Logistic regression, random forest and gradient boosted trees models were trained and evaluated
