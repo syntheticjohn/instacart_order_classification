@@ -5,7 +5,7 @@
 - XGBoost was selected and trained on the full training data on AWS, and performed an F1 of 0.440 on the test set. 
 - The ~8 million product orders from Kaggle were stored in postgreSQL and results visualized with Tableau. 
 
-This repo includes: 
+**This repo includes:** 
 
 - **instacart_proprocessing.py**: data preprocessing
 - **instacart_modeling_subsample.ipynb**: feature engineering and modeling on subsample of data 
