@@ -1,9 +1,9 @@
 # Predicting Product Re-Orders On Instacart
 **Project overview:**
-- Predicted which products each Instacart user will buy in the next order given a history of orders using classification algorithms and engineering time-based features to optimize F1 score. 
-- Logistic regression, random forest and gradient boosted trees models were trained and evaluated. 
-- XGBoost was selected and trained on the full training data on AWS, and performed an F1 of 0.440 on the test set. 
-- The ~8 million product orders from Kaggle were stored in postgreSQL and results visualized with Tableau. 
+- Predicted which products each Instacart user will buy in the next order given a history of orders using classification algorithms and engineering time-based features to optimize F1 score 
+- Logistic regression, random forest and gradient boosted trees models were trained and evaluated
+- XGBoost was selected and trained on the full training data on AWS, and performed an F1 of 0.440 on the test set
+- The ~8 million product orders from Kaggle were stored in postgreSQL and results visualized with Tableau
 
 **This repo includes:** 
 
