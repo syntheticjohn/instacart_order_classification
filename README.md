@@ -14,3 +14,6 @@ Predict which products Instacart users will reorder using classification algorit
 - **instacart_modeling_subsample.ipynb**: feature engineering and modeling on subsample of data 
 - **instacart_modeling.ipynb**: feature engineering and final modeling on entire training data
 - **instacart_order_predictions_slides.pdf**: pdf of project presentation slides
+
+**Note 1:** The proprocessing python script is designed to run where postgresql has already been setup and pre-stored with the instacart data (sourced from: kaggle.com/c/instacart-market-basket-analysis/data)  
+**Note 2:** Some data files were excluded from the data folder due to github's size limitation
