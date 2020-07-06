@@ -5,7 +5,6 @@ This repo includes:
 
 - **instacart_subsample.ipynb**: 
 - **instacart_modeling.ipynb**: 
-- **chat_words_str.txt**: 
 - **helper_functions.py**: 
 - **data**: pickled files 
 - **instacart_order_predictions_slides.pdf**: pdf of project presentation slides
